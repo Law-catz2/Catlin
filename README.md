@@ -7,6 +7,6 @@ if you're using intelliJ, create a kotlin project then copy-paste the source cod
 
 as a linux terminal:<br><br>
 
-for activity #1:<br>
+for any activity:<br>
 kotlinc <ACTICITY_FILENAME>.kt -include-runtime -d <ACTICITY_FILENAME>.jar && java -jar <ACTICITY_FILENAME>.jar
 
